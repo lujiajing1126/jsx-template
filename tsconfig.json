@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "outDir": "build",
+    "module": "es6",
+    "target": "es6"
+  },
+  "exclude": [
+    "node_modules",
+    "build",
+    "dist",
+    "webpack.config.js"
+  ]
+}
